@@ -23,6 +23,7 @@ A collection of slides and resources from tech talk sessions on Angular, AI, API
 | [angular_playground](https://github.com/Ashadeepa/angular_playground) | Angular 17 demos and examples |
 | [ashadeepa-playground](https://github.com/Ashadeepa/ashadeepa-playground) | Angular 18 demos and examples |
 | [ddd-future-ready-apis-demo](https://github.com/Ashadeepa/ddd-future-ready-apis-demo) | Domain-Driven Design API demo |
+| [a2a-demo-travel-app](https://github.com/Ashadeepa/a2a-demo-travel-app) | A2A Protocol demo – AI travel agent app |
 
 ---
 
